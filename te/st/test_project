@@ -1,1 +1,2 @@
 {"name":"test_project","vers":"0.1.0","deps":[],"cksum":"b08f9f132700542c16da213af37fd29dbbf68c29ab67799d6f31fbeccbffb7af","features":{},"yanked":false}
+{"name":"test_project","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.38","features":[],"optional":false,"default_features":true,"kind":"normal","registry":"https://github.com/rust-lang/crates.io-index"}],"cksum":"a2f396d8a4ca31c3db4815d1f1ea14492a8f2a26a67fe485c7f6e98590302f57","features":{},"yanked":false}
